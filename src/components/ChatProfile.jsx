@@ -11,7 +11,7 @@ const ChatProfile = () => {
             <h1 className='font-semibold text-lg'>Helena</h1>
             <p className='text-gray-600'>Active 20m ago</p>
         </div>
-        <div className='my-8 text-center bg-black text-white py-2 rounded-xl'>
+        <div className='my-8 text-center bg-black text-white py-2 rounded-xl cursor-pointer'>
             <button>View Profile</button>
         </div>
         <div className='flex-col items-center text-center'>
